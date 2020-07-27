@@ -12,6 +12,9 @@ title = "Devin R Leopold"
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "dleopold.github.io/"
 
+# Folder for writing compiled website
+publishDir = "../dleopold.github.io"
+
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
 copyright = ""

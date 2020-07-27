@@ -2,13 +2,25 @@
 authors:
 - admin
 email: "devin.leopold@gmail.com"
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
-# organizations:
-# - name: Oregon State University
-#   url: ""
+interests:
+- Plant microbiomes
+- Microbial ecology
+- Theoretical ecology
+- Bioinformatics
+education:
+  courses:
+  - course: PhD in Biology
+    institution: Stanford University
+    year: 2017
+  - course: Post-Baccalaureate Certificate in Geographic Inforamtion Systems
+    institution: The Pennsylvania State University
+    year: 2011
+  - course: BA in the School of Natural Sciences
+    institution: Hampshire College
+    year: 2002
+organizations:
+- name: "Oregon State Universit"
+  url: "https://bpp.oregonstate.edu/"
 role: Postdoctoral researcher
 social:
 - icon: envelope
@@ -36,4 +48,4 @@ user_groups:
 - Visitors
 ---
  
-I am a community ecologist and my research is focused on microbial community assembly in the plant microbiome. The motivating theme that underlies my research is the desire to understand how processes operating across broad spatial and temporal scales can help explain microbial community assembly in the present-day. My use of the plant microbiome as a study system is motivated by two key factors. First, microbial communities have relatively rapid temporal dynamics, allowing them to serve as tractable model systems to address otherwise difficult questions in community ecology. Second, plant microbiome composition can dramatically affect plant productivity and health, and applications of plant microbiome science promise to help combat global food and natural resource insecurity.
+I am a community ecologist studying plant microbiome assembly. The motivating theme that underlies my research is the desire to understand how processes operating across broad spatial and temporal scales can help explain microbial community assembly in the present-day. My use of the plant microbiome as a study system is motivated by two key factors. First, microbial communities have relatively rapid temporal dynamics, allowing them to serve as tractable model systems to address otherwise difficult questions in community ecology. Second, plant microbiome composition can dramatically affect plant productivity and health, and applications of plant microbiome science promise to help combat global food and natural resource insecurity.
