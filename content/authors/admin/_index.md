@@ -19,7 +19,7 @@ education:
     institution: Hampshire College
     year: 2002
 organizations:
-- name: "Oregon State Universit"
+- name: "Oregon State University"
   url: "https://bpp.oregonstate.edu/"
 role: Postdoctoral researcher
 social:
