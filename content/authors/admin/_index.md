@@ -3,25 +3,23 @@ authors:
 - admin
 email: "devin.leopold@gmail.com"
 interests:
-- Plant microbiomes
-- Microbial ecology
-- Theoretical ecology
 - Bioinformatics
+- Statistics
+- Data Visualization
+- Molecular ecology
+- Environmental DNA
 education:
   courses:
   - course: PhD in Biology
     institution: Stanford University
     year: 2017
-  - course: Post-Baccalaureate Certificate in Geographic Inforamtion Systems
-    institution: The Pennsylvania State University
-    year: 2011
   - course: BA in the School of Natural Sciences
     institution: Hampshire College
     year: 2002
 organizations:
 - name: "Jonah Ventures"
   url: "https://jonahventures.com/"
-role: Bioinformaticist / Research Scientist
+role: Molecular Ecology / Bioinformatics / Data Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,6 +46,6 @@ user_groups:
 - Visitors
 ---
  
-I am an ecologist with a passion for microbial community ecology, molecular ecology, and bioinformatics. The motivating theme that underlies my personal research is the desire to understand how processes operating across broad spatial and temporal scales can help explain microbial community assembly in the present-day. My use of the plant microbiome as a study system is motivated by two key factors. First, microbial communities have relatively rapid temporal dynamics, allowing them to serve as tractable model systems to address otherwise difficult questions in community ecology. Second, plant microbiome composition can dramatically affect plant productivity and health, and applications of plant microbiome science promise to help combat global food and natural resource insecurity.
-
-As a bioinformaticist, I have a passion for data visualization, teaching essential computational skills for biologists, and producing highly efficient, reproducible computational workflows. In addition to having extensive experience with many ecological data analysis techniques (e.g., multivariate analyses, spatial analyses, network analyses, etc.), I have extensive experience developing bioinformatic pipelines for microbiome data processing. 
+As Lead Bioinformatician & Data Scientist at [Jonah Ventures](https://jonahventures.com/), I leverage expertise in bioinformatics and cloud computing to process environmental DNA samples for a diverse range of clients including large commercial entities, academic and government organizations, and individual citizen scientists. I also collaborate with the Smithsonian and NOAA to develop highly scalable bioinformatics tools and infrastructure for DNA-based biodiversity data. As an Independent Consultant, I am conducting novel microbiome analyses for the University of Oregon and am helping the USGS design a conservation prioritization web tool.
+ 
+While my recent endeavors focus heavily on computational biology, my foundational knowledge stems from extensive experience as a field biologist in Hawaii and an rich academic background in molecular biology and ecological theory. At my core is an insatiable curiosity and dedication to exploration and problem solving, whether diving into microbial ecosystems or pioneering bioinformatics innovations.
